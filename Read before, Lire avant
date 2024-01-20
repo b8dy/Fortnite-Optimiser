@@ -1,0 +1,41 @@
+Note : Désactivez votre antivirus pour plus de FPS et de performances
+
+1. Exclusion de fichiers ou de dossiers :
+
+Ouvrez les "Paramètres" de Windows en cliquant sur le bouton "Démarrer" et en sélectionnant l'icône en forme d'engrenage.
+Accédez à "Mise à jour et sécurité", puis à "Sécurité Windows".
+Cliquez sur "Protection contre les virus et menaces".
+Sous "Paramètres de protection contre les virus et menaces", cliquez sur "Gérer les paramètres" sous "Paramètres d'exclusion".
+Cliquez sur "Ajouter ou supprimer des exclusions".
+Pour exclure un dossier, cliquez sur "Ajouter une exclusion de dossier" et sélectionnez le dossier que vous souhaitez exclure.
+Pour exclure un fichier, cliquez sur "Ajouter une exclusion de fichier" et sélectionnez le fichier approprié.
+2. Exclusion de types de fichiers spécifiques :
+
+Dans la même section "Paramètres de protection contre les virus et menaces", sous "Paramètres d'exclusion", cliquez sur "Ajouter ou supprimer des exclusions".
+Cliquez sur "Ajouter une exclusion basée sur le type de fichier".
+Sélectionnez le type de fichier que vous souhaitez exclure.
+En utilisant ces options, vous pouvez exclure des programmes spécifiques, des fichiers ou des dossiers du balayage de Windows Defender, tout en maintenant la protection pour le reste du système. Assurez-vous d'exclure uniquement des fichiers ou des programmes de confiance pour éviter toute exposition à des menaces potentielles.
+
+===============================================================================================================================================================================================================
+Note : Disable your antivirus for more FPS and Perfomance
+
+1. Exclude Files or Folders:
+
+Open Windows "Settings" by clicking the Start button and selecting the gear icon.
+Go to "Update & Security," then "Windows Security."
+Click on "Virus & threat protection."
+Under "Virus & threat protection settings," click "Manage settings" under "Exclusions."
+Click on "Add or remove exclusions."
+To exclude a folder, click "Add an exclusion" and select the folder you want to exclude.
+To exclude a file, click "Add an exclusion" and select the appropriate file.
+2. Exclude Specific File Types:
+
+In the same "Virus & threat protection settings" section, under "Exclusions," click "Add or remove exclusions."
+Click "Add an exclusion based on file type."
+Select the file type you want to exclude.
+By using these options, you can exclude specific programs, files, or folders from Windows Defender scanning while maintaining protection for the rest of the system. Ensure that you only exclude files or programs that you trust to avoid exposure to potential threats.
+
+
+
+
+
