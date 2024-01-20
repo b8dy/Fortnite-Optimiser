@@ -1,6 +1,3 @@
-
-Bien sûr, voici comment vous pourriez expliquer l'utilisation de chacun des fichiers de votre pack dans le README :
-
 Optimisation du Système - Pack d'Optimisation
 Ce pack comprend une variété de fichiers conçus pour optimiser les performances de votre système Windows. Suivez les instructions ci-dessous pour tirer le meilleur parti de chaque fichier.
 
